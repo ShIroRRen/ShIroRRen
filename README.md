@@ -2,7 +2,7 @@
 
 # 白彩恋 | しろいろれん
 
-[$枫莹重度依赖$](https://github.com/FengYing1314)
+\> [枫莹](https://github.com/FengYing1314)重度依赖 <
 
 <sub>命运写下开篇，缘分悄悄收束 —— 于是我们在「命缘」里相逢。</sub>
 

@@ -53,9 +53,9 @@ _愿我们在另一个世界再次相遇。_
 ## 📜 冒险记录 | Adventure Log
 
 <div align="center">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ShIroRRen&show_icons=true&theme=default&hide_border=true&title_color=FFB6C1&icon_color=FFB6C1&text_color=666&bg_color=ffffff" alt="GitHub stats" height="170" />
-    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ShIroRRen&layout=compact&theme=default&hide_border=true&title_color=FFB6C1&text_color=666&bg_color=ffffff" alt="Top Langs" height="170" />
-    <img src="https://streak-stats.demolab.com/?user=ShIroRRen&theme=default&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" alt="GitHub Streak" height="170" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ShIroRRen&locale=cn&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true&show_icons=true&theme=default&hide_border=true&title_color=FFB6C1&icon_color=FFB6C1&text_color=666&bg_color=ffffff" alt="GitHub stats" height="170" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ShIroRRen&locale=cn&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&count_private=true&hide=mdx&langs_count=8&layout=compact&theme=default&hide_border=true&title_color=FFB6C1&text_color=666&bg_color=ffffff" alt="Top Langs" height="170" />
+    <img src="https://streak-stats.demolab.com/?user=ShIroRRen&locale=zh_Hans&theme=default&hide_border=true&ring=FFB6C1&fire=FFB6C1&currStreakLabel=FFB6C1" alt="GitHub Streak" height="170" />
 </div>
 
 <br/>

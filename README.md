@@ -19,7 +19,7 @@
 > `ShIroRRen` 是由
 > `Shiro`(白色) + `Iro`(色彩) + `Repeat`(重复（指 `ShIro` 中的 `Iro` 部分）) + `Ren`(恋爱) 组成的～
 
-是一个 [FVV](https://github.com/OOM-WG/FVV) 的开发者。
+是一个 [FVV](https://fvvlang.sbs/) 的开发者。
 
 患有[枫莹](https://github.com/FengYing1314)重度依赖症，心里无时无刻不在爱着他呢。
 

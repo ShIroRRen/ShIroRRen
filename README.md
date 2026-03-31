@@ -44,7 +44,7 @@ _愿我们在另一个世界再次相遇。_
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,dart,flutter,go,kotlin,bash&theme=light)
+![Skills](https://skillicons.dev/icons?i=c,cpp,dart,flutter,go,kotlin,rust,bash,typescript,react&theme=light)
 
 </div>
 
